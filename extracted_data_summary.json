@@ -1,0 +1,62 @@
+{
+  "Tokyo": {
+    "n_buildings": 4244,
+    "mean_height_m": 32.525194951850075,
+    "max_height_m": 257.48493422228603,
+    "std_height_m": 32.567307932790996,
+    "n_roads": 495,
+    "mean_road_width_m": 7.575151515151515,
+    "n_landing_zones": 104,
+    "n_exclusion_zones": 12,
+    "morphology_vector_dim": 16,
+    "source": "OpenStreetMap Overpass API (live extraction)"
+  },
+  "Shenzhen": {
+    "n_buildings": 962,
+    "mean_height_m": 80.52273780308057,
+    "max_height_m": 599.1,
+    "std_height_m": 74.794021222797,
+    "n_roads": 307,
+    "mean_road_width_m": 8.083061889250814,
+    "n_landing_zones": 33,
+    "n_exclusion_zones": 13,
+    "morphology_vector_dim": 16,
+    "source": "OpenStreetMap Overpass API (live extraction)"
+  },
+  "Seoul": {
+    "n_buildings": 3605,
+    "mean_height_m": 48.35030020036591,
+    "max_height_m": 242.70194751931393,
+    "std_height_m": 25.98718855255928,
+    "n_roads": 500,
+    "mean_road_width_m": 6.9277999999999995,
+    "n_landing_zones": 35,
+    "n_exclusion_zones": 10,
+    "morphology_vector_dim": 16,
+    "source": "OpenStreetMap Overpass API (live extraction)"
+  },
+  "Singapore": {
+    "n_buildings": 1459,
+    "mean_height_m": 20.98983754143847,
+    "max_height_m": 255.57648433814916,
+    "std_height_m": 34.29725301378506,
+    "n_roads": 1037,
+    "mean_road_width_m": 10.342622950819672,
+    "n_landing_zones": 75,
+    "n_exclusion_zones": 5,
+    "morphology_vector_dim": 16,
+    "source": "OpenStreetMap Overpass API (live extraction)"
+  },
+  "Mumbai": {
+    "n_buildings": 992,
+    "mean_height_m": 18.38025602894345,
+    "max_height_m": 41.21755165865032,
+    "std_height_m": 7.689463245949651,
+    "n_roads": 448,
+    "mean_road_width_m": 6.219866071428571,
+    "n_landing_zones": 22,
+    "n_exclusion_zones": 20,
+    "morphology_vector_dim": 16,
+    "source": "OpenStreetMap Overpass API (live extraction)"
+  }
+}
