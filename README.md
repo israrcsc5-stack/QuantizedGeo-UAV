@@ -1,3 +1,6 @@
+<img width="1425" height="379" alt="image" src="https://github.com/user-attachments/assets/8a22d1d7-06a0-4172-8662-e18f6b383f8d" />
+
+
 # QuantizedGeo-UAV
 
 Near-Optimal Vector Quantization for Real-Time Remote Sensing-Driven Multi-UAV Coordination in Smart Cities with Bandwidth-Constrained Communications.
